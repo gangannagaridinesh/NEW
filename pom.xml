@@ -165,7 +165,7 @@
             <releases><enabled>true</enabled></releases>
             <snapshots><enabled>false</enabled></snapshots>
         </repository>
-        <!-- For testing against latest Spring snapshots -->
+       
         <repository>
             <id>sample-snapshot</id>
             <name>nexusRepo</name>
